@@ -1,0 +1,29 @@
+#test1 {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.test2 {
+    background-color: yellow;
+    font-weight: bold;
+}
+.test3 {
+    text-decoration: underline;
+    font-style: italic;
+}
+.test4{
+    color: brown;
+    letter-spacing: 6px;
+}
+.test5 {
+    color: saddlebrown;
+}
+link {
+    color: yellow;
+}
+a {
+    color: red;
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+}
